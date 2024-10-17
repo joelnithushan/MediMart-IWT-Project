@@ -1,0 +1,93 @@
+.cart {
+    padding: 5%;
+}
+
+.ysubmit {
+    background-color:white;
+    color:black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+.ysubmit1 {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+.ysubmit:hover {
+    background-color:gray;
+    color: black;
+    transition: 0.3s;
+    border-color: black;
+}
+
+.y-payment {
+    display: flex;
+}
+
+.y-payment img {
+    margin-top: 12px;
+    margin-left: 10px;
+}
+
+.message_box .box {
+    margin: 10px 0px;
+    border: 1px solid black;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
+
+.cart table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.cart th, .cart td {
+    border-bottom: #aaa 1px solid;
+    padding: 15px;
+}
+
+.cart tr {
+    text-align: center;
+}
+
+.cart .remove {
+    background: none;
+    border: none;
+    color:white;
+    cursor: pointer;
+    padding: 8px;
+    background:black;
+}
+
+.cart .remove:hover {
+    text-decoration: none;
+    background-color: #25262e;
+    color: white;
+}
+
+.emptyCart {
+    color: #f44336;
+    text-align: center;
+}
+
+.presup-ytxtarea {
+    width: 100%;
+}
+
+.ysubmit1 a {
+    text-decoration: none;
+}
+
+.ysubmit1 a:visited {
+    color: white;
+}

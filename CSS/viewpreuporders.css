@@ -1,0 +1,34 @@
+.viewPreupOrders-main {
+    padding: 40px;
+    padding-bottom: 80px;
+}
+
+.viewPreupOrders tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.viewPreupOrders tr:hover {
+    background-color: #ddd;
+}
+
+.viewPreupOrders th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #212121;
+    color: white;
+}
+
+.viewPreupOrders th,
+.viewPreupOrders td {
+    padding: 6px;
+    border-bottom: 1px solid #aaa;
+}
+
+.viewPreupOrders {
+    width: 100%;
+}
+
+.viewPreupOrders-table {
+    width: 100%;
+}
